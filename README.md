@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisNiharika
 - 👀 I’m interested in Designing
-- 🌱 I’m currently learning UI/UX creation
+- 🌱 I’m currently working on UI/UX creation
 - 📫 How to reach me on missrathoratwork@gmail.com
 
 <!---
