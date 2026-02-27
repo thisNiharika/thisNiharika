@@ -91,8 +91,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thisniharika/thisniharika/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake.svg">
+</picture>
 ###
 
 <br clear="both">
