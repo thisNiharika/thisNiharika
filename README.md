@@ -3,23 +3,23 @@
 </div>
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <p align="left">My name is Niharika Rathor</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">✨ Creating bugs and fixing them before anyone notices 😎  <br>📚 Diving deeper into frontend architecture & UI performance  <br>🎯 Goals: Lead high-impact frontend teams and craft design systems that scale  <br>🎲 Fun fact: I enjoy debugging almost as much as designing (almost 😉)</p>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -89,17 +89,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" alt="tortoisegit logo"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake.svg">
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/thisNiharika/thisNiharika/output/snake.svg">
 </picture>
-###
+
 
 <br clear="both">
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"  />
 
-###
+
